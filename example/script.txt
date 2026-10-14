@@ -1,0 +1,5 @@
+This is what a scroll-caption video looks like.
+Drop one photo, one music track and one text file into a folder, and the tool turns them into a vertical video.
+Every sentence becomes its own block, and long sentences break where a person reading aloud would pause, because that is how these captions are meant to be read.
+The music starts at the very first frame, and if the script runs longer than the track, the track repeats with a soft crossfade.
+That is the whole tool. Edit the script, swap the photo, pick a different song, and render again.
